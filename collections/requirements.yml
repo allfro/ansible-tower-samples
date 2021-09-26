@@ -1,1 +1,2 @@
-- src: community.digitalocean
+collections:
+  - community.digitalocean
