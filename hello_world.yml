@@ -12,7 +12,7 @@
         state: present
         id: 123
         name: mydroplet
-        api_token: aa1142b2c0f3f01b80f0a0b2757eacb392fd38ee20fb5857a612e53ebbdc83fd
+        oauth_token: aa1142b2c0f3f01b80f0a0b2757eacb392fd38ee20fb5857a612e53ebbdc83fd
         size: 2gb
         region: sfo1
         ssh_keys: ['1534404', '1784768']
