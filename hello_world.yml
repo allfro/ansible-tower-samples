@@ -6,7 +6,7 @@
     - debug: var=ansible_default_ipv4.address
 
 - name: Ensure a droplet is present
-  community.digitalocean.digital_ocean_droplet:
+  digital_ocean_droplet:
     state: present
     id: 123
     name: mydroplet
